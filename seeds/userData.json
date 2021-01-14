@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Mark Schlereth",
+      "email": "markschlereth@outlook.com",
+      "password": "password12345"
+    },
+    {
+      "name": "Todd Evans",
+      "email": "toddevans@google.com",
+      "password": "password12345"
+    },
+    {
+      "name": "Tim Budkas",
+      "email": "timbudkas@google.com",
+      "password": "password12345"
+    },
+    {
+        "name": "Barney Frank",
+        "email": "barney@barney.com",
+        "password": "password12345"
+    }
+  
+  ]
